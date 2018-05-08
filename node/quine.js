@@ -1,1 +1,1 @@
-(q=()=>console.log(`(q=${q})()`))()
+(q=_=>console.log(`(q=${q})()`))()

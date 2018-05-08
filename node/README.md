@@ -7,5 +7,5 @@ $ node quine.js
 or
 
 ```sh
-$ node -p '(q=()=>`(q=${q})()`)()'
+$ node -p 'q=_=>`q=${q};q()`;q()'
 ```
