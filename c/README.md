@@ -1,4 +1,4 @@
-```sh
+```
 $ gcc --version
 gcc (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609
 Copyright (C) 2015 Free Software Foundation, Inc.

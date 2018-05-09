@@ -1,4 +1,4 @@
-```sh
+```
 $ node -v
 v8.11.1
 $ node quine.js
